@@ -1,0 +1,16 @@
+C:\Users\rbauvin\Documents\Projects\TP-IA-TicTacToe\TP-IA-TicTacToe\bin\Debug\net5.0\TP-IA-TicTacToe.exe
+C:\Users\rbauvin\Documents\Projects\TP-IA-TicTacToe\TP-IA-TicTacToe\bin\Debug\net5.0\TP-IA-TicTacToe.deps.json
+C:\Users\rbauvin\Documents\Projects\TP-IA-TicTacToe\TP-IA-TicTacToe\bin\Debug\net5.0\TP-IA-TicTacToe.runtimeconfig.json
+C:\Users\rbauvin\Documents\Projects\TP-IA-TicTacToe\TP-IA-TicTacToe\bin\Debug\net5.0\TP-IA-TicTacToe.runtimeconfig.dev.json
+C:\Users\rbauvin\Documents\Projects\TP-IA-TicTacToe\TP-IA-TicTacToe\bin\Debug\net5.0\TP-IA-TicTacToe.dll
+C:\Users\rbauvin\Documents\Projects\TP-IA-TicTacToe\TP-IA-TicTacToe\bin\Debug\net5.0\ref\TP-IA-TicTacToe.dll
+C:\Users\rbauvin\Documents\Projects\TP-IA-TicTacToe\TP-IA-TicTacToe\bin\Debug\net5.0\TP-IA-TicTacToe.pdb
+C:\Users\rbauvin\Documents\Projects\TP-IA-TicTacToe\TP-IA-TicTacToe\obj\Debug\net5.0\TP-IA-TicTacToe.csprojAssemblyReference.cache
+C:\Users\rbauvin\Documents\Projects\TP-IA-TicTacToe\TP-IA-TicTacToe\obj\Debug\net5.0\TP-IA-TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rbauvin\Documents\Projects\TP-IA-TicTacToe\TP-IA-TicTacToe\obj\Debug\net5.0\TP-IA-TicTacToe.AssemblyInfoInputs.cache
+C:\Users\rbauvin\Documents\Projects\TP-IA-TicTacToe\TP-IA-TicTacToe\obj\Debug\net5.0\TP-IA-TicTacToe.AssemblyInfo.cs
+C:\Users\rbauvin\Documents\Projects\TP-IA-TicTacToe\TP-IA-TicTacToe\obj\Debug\net5.0\TP-IA-TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\rbauvin\Documents\Projects\TP-IA-TicTacToe\TP-IA-TicTacToe\obj\Debug\net5.0\TP-IA-TicTacToe.dll
+C:\Users\rbauvin\Documents\Projects\TP-IA-TicTacToe\TP-IA-TicTacToe\obj\Debug\net5.0\ref\TP-IA-TicTacToe.dll
+C:\Users\rbauvin\Documents\Projects\TP-IA-TicTacToe\TP-IA-TicTacToe\obj\Debug\net5.0\TP-IA-TicTacToe.pdb
+C:\Users\rbauvin\Documents\Projects\TP-IA-TicTacToe\TP-IA-TicTacToe\obj\Debug\net5.0\TP-IA-TicTacToe.genruntimeconfig.cache
